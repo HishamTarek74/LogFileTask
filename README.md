@@ -5,6 +5,7 @@
 - run following steps run by php built server
 
 - main idea to preview file lines in examples/file.txt
+- put file.txt in input form to preview
 ```
 clone repo  
 ```
